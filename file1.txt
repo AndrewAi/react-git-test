@@ -1,0 +1,3 @@
+local newbranch file1 change1
+
+local newbranch file1 change2
